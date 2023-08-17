@@ -37,15 +37,15 @@ This is a simple password manager application built using Python and the `tkinte
 
 ## Usage
 
--Run the script.
+- Run the script.
 
--The main window will appear, showing a set of buttons for different actions.
+- The main window will appear, showing a set of buttons for different actions.
 
--Click the appropriate button to perform the desired action.
+- Click the appropriate button to perform the desired action.
 
--Follow the prompts and input boxes to enter necessary information.
+- Follow the prompts and input boxes to enter necessary information.
 
--Enjoy managing your passwords with ease!
+- Enjoy managing your passwords with ease!
 
 ## Disclaimer
 
