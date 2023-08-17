@@ -7,8 +7,11 @@ This is a simple password manager application built using Python and the `tkinte
 ## Features
 
 - Add passwords: You can add new passwords by providing the app name and password.
+  
 - View passwords: View a list of saved passwords along with their associated app names.
+  
 - Update passwords: Update the password for a specific app by entering the new password.
+  
 - Delete passwords: Delete the password, or both the password and app name, for a specific app.
 
 ## Requirements
@@ -35,9 +38,13 @@ This is a simple password manager application built using Python and the `tkinte
 ## Usage
 
 -Run the script.
+
 -The main window will appear, showing a set of buttons for different actions.
+
 -Click the appropriate button to perform the desired action.
+
 -Follow the prompts and input boxes to enter necessary information.
+
 -Enjoy managing your passwords with ease!
 
 ## Disclaimer
