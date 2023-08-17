@@ -1,6 +1,6 @@
 # Password Manager
 
-![Password Manager](password_manager_screenshot.png)
+![Password Manager](images/Screenshot-1.png)
 
 This is a simple password manager application built using Python and the `tkinter` library for the graphical user interface. It allows you to add, view, update, and delete passwords associated with different app names.
 
@@ -13,7 +13,7 @@ This is a simple password manager application built using Python and the `tkinte
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - `tkinter` (included with standard Python installation)
 
 ## How to Run
@@ -24,6 +24,13 @@ This is a simple password manager application built using Python and the `tkinte
 2. Navigate to the cloned directory: `cd SimplePasswordManager`
 
 3. Run the script: `python manager.py`
+
+## Screenshots
+
+![Add](images/Screenshot-2.png)
+![View](images/Screenshot-3.png)
+![Update](images/Screenshot-4.png)
+![delete](images/Screenshot-5.png)
 
 ## Usage
 
